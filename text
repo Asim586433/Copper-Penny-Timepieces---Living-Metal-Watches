@@ -1,20 +1,39 @@
-COPPER PENNY TIMEPIECES
-├── 🏠 Home Page
-├── 🛍️ Shop/Collections
-├── ⌚ Product Details (Dynamic)
-├── 🛒 Shopping Cart (Working)
-├── 💳 Checkout
-├── 📦 Order Confirmation
-├── 👤 User Account
-│   ├── Login/Register
-│   ├── Profile
-│   └── Order History
-├── 📋 Admin Panel
-│   ├── Dashboard
-│   ├── Manage Products
-│   ├── Manage Orders
-│   └── Manage Users
-├── ℹ️ About Us
-├── 📞 Contact (Working Form)
-├�️⃣ Blog/News
-└── 🔒 Privacy Policy/Terms
+copperpenny/
+├── index.php
+├── shop.php
+├── product.php
+├── cart.php
+├── checkout.php
+├── login.php
+├── register.php
+├── account.php
+├── orders.php
+├── about.php
+├── contact.php
+├── blog.php
+├── blog-post.php
+├── config.php
+├── header.php
+├── footer.php
+├── logout.php
+├── process-order.php
+├── subscribe.php
+├── ajax/
+│   ├── add-to-cart.php
+│   ├── update-cart.php
+│   └── remove-from-cart.php
+├── admin/
+│   ├── index.php
+│   ├── products.php
+│   ├── orders.php
+│   └── users.php
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── main.js
+│   └── images/
+│       ├── products/
+│       ├── blog/
+│       └── trust/
+└── database.sql
