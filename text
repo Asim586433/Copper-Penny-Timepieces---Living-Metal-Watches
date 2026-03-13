@@ -1,0 +1,20 @@
+COPPER PENNY TIMEPIECES
+├── 🏠 Home Page
+├── 🛍️ Shop/Collections
+├── ⌚ Product Details (Dynamic)
+├── 🛒 Shopping Cart (Working)
+├── 💳 Checkout
+├── 📦 Order Confirmation
+├── 👤 User Account
+│   ├── Login/Register
+│   ├── Profile
+│   └── Order History
+├── 📋 Admin Panel
+│   ├── Dashboard
+│   ├── Manage Products
+│   ├── Manage Orders
+│   └── Manage Users
+├── ℹ️ About Us
+├── 📞 Contact (Working Form)
+├�️⃣ Blog/News
+└── 🔒 Privacy Policy/Terms
